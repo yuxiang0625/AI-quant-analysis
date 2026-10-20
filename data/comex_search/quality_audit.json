@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-10-18T23:04:51",
+  "database": "C:\\Users\\zhuti\\PyCharmMiscProject\\根目录\\learn\\AI量化分析\\data\\aurum.db",
+  "record_count": 22,
+  "issues": [
+    {
+      "type": "large_change",
+      "report_date": "2026-01-20",
+      "source": "cngold",
+      "related_date": "2025-02-27",
+      "field": "eligible",
+      "previous_value": 20229483.238,
+      "current_value": 17271504.49,
+      "change_percent": -14.6221,
+      "issues": [
+        "相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错"
+      ]
+    },
+    {
+      "type": "large_change",
+      "report_date": "2026-05-04",
+      "source": "cngold",
+      "related_date": "2026-02-23",
+      "field": "eligible",
+      "previous_value": 16557874.94,
+      "current_value": 13388070.653,
+      "change_percent": -19.1438,
+      "issues": [
+        "相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错"
+      ]
+    },
+    {
+      "type": "large_change",
+      "report_date": "2026-05-04",
+      "source": "cngold",
+      "related_date": "2026-02-23",
+      "field": "total",
+      "previous_value": 33701163.553,
+      "current_value": 29202691.697,
+      "change_percent": -13.3481,
+      "issues": [
+        "相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错"
+      ]
+    },
+    {
+      "type": "large_change",
+      "report_date": "2026-09-25",
+      "source": "cngold",
+      "related_date": "2026-09-16",
+      "field": "eligible",
+      "previous_value": 12227525.695,
+      "current_value": 8231650.467,
+      "change_percent": -32.6793,
+      "issues": [
+        "相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错"
+      ]
+    },
+    {
+      "type": "large_change",
+      "report_date": "2026-09-25",
+      "source": "cngold",
+      "related_date": "2026-09-16",
+      "field": "total",
+      "previous_value": 27383818.341,
+      "current_value": 23387988.611,
+      "change_percent": -14.5919,
+      "issues": [
+        "相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错"
+      ]
+    }
+  ],
+  "notes": [
+    "异常变化只代表需要核查，不自动认定为错误。",
+    "数据通过加总检查不代表日期和来源已被独立证实。"
+  ]
+}

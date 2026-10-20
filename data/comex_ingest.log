@@ -1,0 +1,266 @@
+2026-10-18 22:37:55,131 [INFO] 正在获取：https://www.cngold.org/c/2026-10-16/c10819703.html
+2026-10-18 22:37:55,398 [INFO] 本页解析到 2 条记录。
+2026-10-18 22:37:55,399 [INFO] 正在获取：https://m.cngold.org/home/xw10816848.html
+2026-10-18 22:37:55,563 [INFO] 本页解析到 2 条记录。
+2026-10-18 22:37:55,563 [INFO] 正在获取：https://m.cngold.org/home/xw10819703.html
+2026-10-18 22:37:55,654 [INFO] 本页解析到 2 条记录。
+2026-10-18 22:37:55,698 [INFO] 采集结束：解析到 5 条，实际新增 5 条。
+2026-10-18 22:42:58,138 [INFO] ============================================================
+2026-10-18 22:42:58,139 [INFO] COMEX 黄金库存采集启动
+2026-10-18 22:42:58,139 [INFO] 项目目录：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析
+2026-10-18 22:42:58,139 [INFO] 数据库：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\aurum.db
+2026-10-18 22:42:58,139 [INFO] 预览模式：True
+2026-10-18 22:42:58,483 [INFO] DeepSeek 搜索完成：查询=COMEX黄金库存 注册仓单 非注册仓单 总量 盎司 site:cngold.org，结果=10 条
+2026-10-18 22:42:59,124 [INFO] DeepSeek 搜索完成：查询=COMEX黄金库存量数据 注册仓单 非注册仓单 site:m.cngold.org，结果=10 条
+2026-10-18 22:42:59,438 [INFO] 搜索结果已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\search_results.json
+2026-10-18 22:42:59,438 [INFO] 本次准备处理 10 个文章链接。
+2026-10-18 22:42:59,438 [INFO] 正在处理文章：https://m.cngold.org/home/xw10819703.html
+2026-10-18 22:42:59,442 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-16，来源=https://m.cngold.org/home/xw10819703.html
+2026-10-18 22:42:59,442 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-16，来源=https://m.cngold.org/home/xw10819703.html
+2026-10-18 22:42:59,442 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,442 [INFO] 正在处理文章：https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:42:59,442 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:42:59,443 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,443 [INFO] 正在处理文章：https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:42:59,443 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,443 [INFO] 正在处理文章：https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-17，来源=https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:42:59,443 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-17，来源=https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:42:59,444 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-17，来源=https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:42:59,444 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-17，来源=https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:42:59,444 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,444 [INFO] 正在处理文章：https://m.cngold.org/home/xw10766734.html
+2026-10-18 22:42:59,444 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-18，来源=https://m.cngold.org/home/xw10766734.html
+2026-10-18 22:42:59,444 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,444 [INFO] 正在处理文章：https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 22:42:59,444 [INFO] 该日期区块字段不完整，跳过：日期=2026-05-07，来源=https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 22:42:59,444 [INFO] 该日期区块字段不完整，跳过：日期=2016-04-18，来源=https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 22:42:59,444 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,444 [INFO] 正在处理文章：https://m.cngold.org/home/xw10332648.html
+2026-10-18 22:42:59,444 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-30，来源=https://m.cngold.org/home/xw10332648.html
+2026-10-18 22:42:59,444 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-30，来源=https://m.cngold.org/home/xw10332648.html
+2026-10-18 22:42:59,444 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-30，来源=https://m.cngold.org/home/xw10332648.html
+2026-10-18 22:42:59,445 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,445 [INFO] 正在处理文章：https://m.cngold.org/home/xw10351925.html
+2026-10-18 22:42:59,445 [INFO] 该日期区块字段不完整，跳过：日期=2026-02-25，来源=https://m.cngold.org/home/xw10351925.html
+2026-10-18 22:42:59,445 [INFO] 该日期区块字段不完整，跳过：日期=2026-02-25，来源=https://m.cngold.org/home/xw10351925.html
+2026-10-18 22:42:59,445 [INFO] 该日期区块字段不完整，跳过：日期=2026-02-25，来源=https://m.cngold.org/home/xw10351925.html
+2026-10-18 22:42:59,445 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,445 [INFO] 正在处理文章：https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:42:59,445 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:42:59,445 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:42:59,445 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:42:59,445 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:42:59,445 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:42:59,446 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:42:59,446 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:42:59,446 [INFO] 正在处理文章：https://gold.cngold.org/zt/comexhj.html
+2026-10-18 22:42:59,446 [INFO] 该日期区块字段不完整，跳过：日期=2013-09-09，来源=https://gold.cngold.org/zt/comexhj.html
+2026-10-18 22:42:59,446 [INFO] 该日期区块字段不完整，跳过：日期=2025-02-04，来源=https://gold.cngold.org/zt/comexhj.html
+2026-10-18 22:42:59,446 [INFO] 该日期区块字段不完整，跳过：日期=2025-01-24，来源=https://gold.cngold.org/zt/comexhj.html
+2026-10-18 22:42:59,446 [INFO] 该日期区块字段不完整，跳过：日期=2025-01-23，来源=https://gold.cngold.org/zt/comexhj.html
+2026-10-18 22:42:59,446 [WARNING] 库存合计不一致，跳过：日期=2025-01-22，注册=11632792.368，非注册=14254029.058，总量=25877821.426，来源=https://gold.cngold.org/zt/comexhj.html
+2026-10-18 22:42:59,446 [WARNING] 库存合计不一致，跳过：日期=2025-01-22，注册=11632792.368，非注册=14254029.058，总量=25877821.426，来源=https://gold.cngold.org/zt/comexhj.html
+2026-10-18 22:42:59,446 [INFO] 本篇文章解析到 9 条有效记录。
+2026-10-18 22:42:59,448 [INFO] 解析预览已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\parsed_preview.json
+2026-10-18 22:42:59,448 [INFO] 本次合计解析到 26 条有效库存记录。
+2026-10-18 22:42:59,455 [INFO] 当前为预览模式 DRY_RUN=True，本次不会写入数据库。
+2026-10-18 22:42:59,455 [INFO] 预览结束：没有写入数据库。请检查 parsed_preview.json 后再决定是否入库。
+2026-10-18 22:42:59,455 [INFO] COMEX 黄金库存采集结束。
+2026-10-18 22:44:37,078 [INFO] ============================================================
+2026-10-18 22:44:37,079 [INFO] COMEX 黄金库存采集启动
+2026-10-18 22:44:37,079 [INFO] 项目目录：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析
+2026-10-18 22:44:37,079 [INFO] 数据库：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\aurum.db
+2026-10-18 22:44:37,079 [INFO] 预览模式：False
+2026-10-18 22:44:37,377 [INFO] DeepSeek 搜索完成：查询=COMEX黄金库存 注册仓单 非注册仓单 总量 盎司 site:cngold.org，结果=10 条
+2026-10-18 22:44:38,000 [INFO] DeepSeek 搜索完成：查询=COMEX黄金库存量数据 注册仓单 非注册仓单 site:m.cngold.org，结果=10 条
+2026-10-18 22:44:38,319 [INFO] 搜索结果已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\search_results.json
+2026-10-18 22:44:38,319 [INFO] 本次准备处理 10 个文章链接。
+2026-10-18 22:44:38,319 [INFO] 正在处理文章：https://m.cngold.org/home/xw10819703.html
+2026-10-18 22:44:38,319 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-16，来源=https://m.cngold.org/home/xw10819703.html
+2026-10-18 22:44:38,319 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-16，来源=https://m.cngold.org/home/xw10819703.html
+2026-10-18 22:44:38,319 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,319 [INFO] 正在处理文章：https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-08，来源=https://m.cngold.org/home/xw10801220.html
+2026-10-18 22:44:38,320 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,320 [INFO] 正在处理文章：https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:44:38,320 [INFO] 该日期区块字段不完整，跳过：日期=2026-10-03，来源=https://m.cngold.org/home/xw10790135.html
+2026-10-18 22:44:38,320 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,320 [INFO] 正在处理文章：https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:44:38,321 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-17，来源=https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:44:38,321 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-17，来源=https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:44:38,321 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-17，来源=https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:44:38,321 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-17，来源=https://m.cngold.org/home/xw10660187.html
+2026-10-18 22:44:38,321 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,321 [INFO] 正在处理文章：https://m.cngold.org/home/xw10766734.html
+2026-10-18 22:44:38,321 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-18，来源=https://m.cngold.org/home/xw10766734.html
+2026-10-18 22:44:38,321 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,321 [INFO] 正在处理文章：https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 22:44:38,321 [INFO] 该日期区块字段不完整，跳过：日期=2026-05-07，来源=https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 22:44:38,321 [INFO] 该日期区块字段不完整，跳过：日期=2016-04-18，来源=https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 22:44:38,321 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,322 [INFO] 正在处理文章：https://m.cngold.org/home/xw10332648.html
+2026-10-18 22:44:38,322 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-30，来源=https://m.cngold.org/home/xw10332648.html
+2026-10-18 22:44:38,322 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-30，来源=https://m.cngold.org/home/xw10332648.html
+2026-10-18 22:44:38,322 [INFO] 该日期区块字段不完整，跳过：日期=2026-09-30，来源=https://m.cngold.org/home/xw10332648.html
+2026-10-18 22:44:38,322 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,322 [INFO] 正在处理文章：https://m.cngold.org/home/xw10351925.html
+2026-10-18 22:44:38,322 [INFO] 该日期区块字段不完整，跳过：日期=2026-02-25，来源=https://m.cngold.org/home/xw10351925.html
+2026-10-18 22:44:38,322 [INFO] 该日期区块字段不完整，跳过：日期=2026-02-25，来源=https://m.cngold.org/home/xw10351925.html
+2026-10-18 22:44:38,322 [INFO] 该日期区块字段不完整，跳过：日期=2026-02-25，来源=https://m.cngold.org/home/xw10351925.html
+2026-10-18 22:44:38,322 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,322 [INFO] 正在处理文章：https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:44:38,323 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:44:38,323 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:44:38,323 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:44:38,323 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:44:38,323 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:44:38,323 [INFO] 该日期区块字段不完整，跳过：日期=2026-07-13，来源=https://m.cngold.org/home/xw10299704.html
+2026-10-18 22:44:38,323 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,323 [INFO] 正在处理文章：https://www.cngold.org/c/2025-02-28/c9753282.html
+2026-10-18 22:44:38,323 [INFO] 该日期区块字段不完整，跳过：日期=2025-02-28，来源=https://www.cngold.org/c/2025-02-28/c9753282.html
+2026-10-18 22:44:38,323 [INFO] 该日期区块字段不完整，跳过：日期=2016-04-18，来源=https://www.cngold.org/c/2025-02-28/c9753282.html
+2026-10-18 22:44:38,323 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 22:44:38,324 [INFO] 解析预览已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\parsed_preview.json
+2026-10-18 22:44:38,324 [INFO] 本次合计解析到 19 条有效库存记录。
+2026-10-18 22:44:38,335 [INFO] 记录已存在，跳过：2026-10-14（cngold）
+2026-10-18 22:44:38,336 [INFO] 记录已存在，跳过：2026-10-13（cngold）
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-10-06，注册=15074857.266，非注册=8404761.256，总量=23479618.522
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-09-28，注册=15103820.838，非注册=8303458.373，总量=23407279.211
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-09-25，注册=15156338.144，非注册=8231650.467，总量=23387988.611
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-09-16，注册=15156292.646，非注册=12227525.695，总量=27383818.341
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-09-15，注册=15155521.022，非注册=12228297.319，总量=27383818.341
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-07-29，注册=14747681.698，非注册=12289920.902，总量=27037602.600
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-07-28，注册=14747681.698，非注册=12278049.141，总量=27025730.839
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-05-05，注册=15827899.555，非注册=13310014.871，总量=29137914.426
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-05-04，注册=15814621.044，非注册=13388070.653，总量=29202691.697
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-02-23，注册=17143288.613，非注册=16557874.940，总量=33701163.553
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-02-20，注册=17143288.613，非注册=16631217.942，总量=33774506.555
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-02-09，注册=18258988.991，非注册=17035123.651，总量=35294112.642
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-02-06，注册=18370216.368，非注册=16999889.111，总量=35370105.479
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-01-21，注册=18864396.638，非注册=17278483.186，总量=36142879.824
+2026-10-18 22:44:38,336 [INFO] 新增库存：2026-01-20，注册=18864396.638，非注册=17271504.490，总量=36135901.128
+2026-10-18 22:44:38,336 [INFO] 新增库存：2025-02-27，注册=18838821.278，非注册=20229483.238，总量=39068304.516
+2026-10-18 22:44:38,336 [INFO] 新增库存：2025-02-26，注册=18233790.127，非注册=20727410.011，总量=38961200.138
+2026-10-18 22:44:38,339 [INFO] 采集结束：解析 19 条，新增 17 条。
+2026-10-18 22:44:38,340 [INFO] COMEX 黄金库存采集结束。
+2026-10-18 23:00:22,770 [INFO] ============================================================
+2026-10-18 23:00:22,770 [INFO] COMEX 黄金库存采集启动
+2026-10-18 23:00:22,770 [INFO] 项目目录：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析
+2026-10-18 23:00:22,771 [INFO] 数据库：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\aurum.db
+2026-10-18 23:00:22,771 [INFO] 预览模式：True
+2026-10-18 23:00:22,773 [INFO] 开始审计数据库现有记录：22 条
+2026-10-18 23:00:22,776 [INFO] 历史审计完成；本程序不会自动修正或删除旧记录。
+2026-10-18 23:00:23,071 [INFO] DeepSeek 搜索完成：查询=COMEX黄金库存 注册仓单 非注册仓单 总量 盎司 site:cngold.org，结果=10 条
+2026-10-18 23:00:23,691 [INFO] DeepSeek 搜索完成：查询=COMEX黄金库存量数据 注册仓单 非注册仓单 site:m.cngold.org，结果=10 条
+2026-10-18 23:00:24,004 [INFO] 搜索结果已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\search_results.json
+2026-10-18 23:00:24,005 [INFO] 本次准备处理 10 个文章链接。
+2026-10-18 23:00:24,005 [INFO] 正在处理文章：https://m.cngold.org/home/xw10819703.html
+2026-10-18 23:00:24,010 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,010 [INFO] 正在处理文章：https://m.cngold.org/home/xw10801220.html
+2026-10-18 23:00:24,010 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,010 [INFO] 正在处理文章：https://m.cngold.org/home/xw10790135.html
+2026-10-18 23:00:24,012 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,012 [INFO] 重复来源记录数值一致，跳过重复项：2026-09-28
+2026-10-18 23:00:24,012 [INFO] 正在处理文章：https://m.cngold.org/home/xw10660187.html
+2026-10-18 23:00:24,012 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,012 [INFO] 正在处理文章：https://m.cngold.org/home/xw10766734.html
+2026-10-18 23:00:24,013 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,013 [INFO] 正在处理文章：https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 23:00:24,013 [INFO] 字段不完整，跳过：日期=2026-05-07，来源=https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 23:00:24,013 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,013 [INFO] 正在处理文章：https://m.cngold.org/home/xw10332648.html
+2026-10-18 23:00:24,013 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,013 [INFO] 正在处理文章：https://m.cngold.org/home/xw10351925.html
+2026-10-18 23:00:24,014 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,014 [INFO] 正在处理文章：https://m.cngold.org/home/xw10299704.html
+2026-10-18 23:00:24,014 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,015 [INFO] 正在处理文章：https://www.cngold.org/c/2025-02-28/c9753282.html
+2026-10-18 23:00:24,015 [INFO] 字段不完整，跳过：日期=2025-02-28，来源=https://www.cngold.org/c/2025-02-28/c9753282.html
+2026-10-18 23:00:24,015 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:00:24,016 [INFO] 解析预览已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\parsed_preview.json
+2026-10-18 23:00:24,016 [INFO] 本次合计解析到 19 条有效库存记录。
+2026-10-18 23:00:24,020 [INFO] 当前为预览模式 DRY_RUN=True，本次不会写入数据库。
+2026-10-18 23:00:24,020 [INFO] 预览结束：没有写入数据库。请检查 parsed_preview.json 后再决定是否入库。
+2026-10-18 23:00:24,020 [INFO] COMEX 黄金库存采集结束。
+2026-10-18 23:04:51,182 [INFO] ============================================================
+2026-10-18 23:04:51,183 [INFO] COMEX 黄金库存采集启动
+2026-10-18 23:04:51,183 [INFO] 项目目录：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析
+2026-10-18 23:04:51,183 [INFO] 数据库：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\aurum.db
+2026-10-18 23:04:51,183 [INFO] 预览模式：True
+2026-10-18 23:04:51,185 [INFO] 开始审计数据库现有记录：22 条
+2026-10-18 23:04:51,189 [INFO] 历史数据质量报告已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\quality_audit.json
+2026-10-18 23:04:51,190 [INFO] 历史审计完成：发现 5 个待核查项目；没有自动修改或删除旧记录。
+2026-10-18 23:04:51,190 [WARNING] 历史数据质量提示：{'type': 'large_change', 'report_date': '2026-01-20', 'source': 'cngold', 'related_date': '2025-02-27', 'field': 'eligible', 'previous_value': 20229483.238, 'current_value': 17271504.49, 'change_percent': -14.6221, 'issues': ['相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错']}
+2026-10-18 23:04:51,190 [WARNING] 历史数据质量提示：{'type': 'large_change', 'report_date': '2026-05-04', 'source': 'cngold', 'related_date': '2026-02-23', 'field': 'eligible', 'previous_value': 16557874.94, 'current_value': 13388070.653, 'change_percent': -19.1438, 'issues': ['相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错']}
+2026-10-18 23:04:51,190 [WARNING] 历史数据质量提示：{'type': 'large_change', 'report_date': '2026-05-04', 'source': 'cngold', 'related_date': '2026-02-23', 'field': 'total', 'previous_value': 33701163.553, 'current_value': 29202691.697, 'change_percent': -13.3481, 'issues': ['相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错']}
+2026-10-18 23:04:51,190 [WARNING] 历史数据质量提示：{'type': 'large_change', 'report_date': '2026-09-25', 'source': 'cngold', 'related_date': '2026-09-16', 'field': 'eligible', 'previous_value': 12227525.695, 'current_value': 8231650.467, 'change_percent': -32.6793, 'issues': ['相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错']}
+2026-10-18 23:04:51,190 [WARNING] 历史数据质量提示：{'type': 'large_change', 'report_date': '2026-09-25', 'source': 'cngold', 'related_date': '2026-09-16', 'field': 'total', 'previous_value': 27383818.341, 'current_value': 23387988.611, 'change_percent': -14.5919, 'issues': ['相邻记录变化幅度达到或超过10%，需要人工核对；不自动判错']}
+2026-10-18 23:04:51,528 [INFO] DeepSeek 搜索完成：查询=COMEX黄金库存 注册仓单 非注册仓单 总量 盎司 site:cngold.org，结果=10 条
+2026-10-18 23:04:52,110 [INFO] DeepSeek 搜索完成：查询=COMEX黄金库存量数据 注册仓单 非注册仓单 site:m.cngold.org，结果=10 条
+2026-10-18 23:04:52,421 [INFO] 搜索结果已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\search_results.json
+2026-10-18 23:04:52,422 [INFO] 本次准备处理 10 个文章链接。
+2026-10-18 23:04:52,422 [INFO] 正在处理文章：https://m.cngold.org/home/xw10819703.html
+2026-10-18 23:04:52,423 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\4fe575b196c1b0ea.json
+2026-10-18 23:04:52,431 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,431 [INFO] 正在处理文章：https://m.cngold.org/home/xw10801220.html
+2026-10-18 23:04:52,431 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\d95fcfe89d9fe57f.json
+2026-10-18 23:04:52,432 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,432 [INFO] 正在处理文章：https://m.cngold.org/home/xw10790135.html
+2026-10-18 23:04:52,433 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\96e73fb7dd373ef2.json
+2026-10-18 23:04:52,434 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,434 [INFO] 重复来源记录数值一致，跳过重复项：2026-09-28
+2026-10-18 23:04:52,434 [INFO] 正在处理文章：https://m.cngold.org/home/xw10660187.html
+2026-10-18 23:04:52,435 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\5427adcd3296c931.json
+2026-10-18 23:04:52,436 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,436 [INFO] 正在处理文章：https://m.cngold.org/home/xw10766734.html
+2026-10-18 23:04:52,438 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\e921a30a129eb54c.json
+2026-10-18 23:04:52,439 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,439 [INFO] 正在处理文章：https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 23:04:52,440 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\43e73883dcdd1f4c.json
+2026-10-18 23:04:52,441 [INFO] 字段不完整，跳过：日期=2026-05-07，来源=https://www.cngold.org/c/2026-05-07/c10484565.html
+2026-10-18 23:04:52,441 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,441 [INFO] 正在处理文章：https://m.cngold.org/home/xw10332648.html
+2026-10-18 23:04:52,442 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\a4fcbd31abd1449e.json
+2026-10-18 23:04:52,443 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,443 [INFO] 正在处理文章：https://m.cngold.org/home/xw10351925.html
+2026-10-18 23:04:52,444 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\cdcf6350904e7984.json
+2026-10-18 23:04:52,445 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,445 [INFO] 正在处理文章：https://m.cngold.org/home/xw10299704.html
+2026-10-18 23:04:52,446 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\ffdf85d06f0a42a1.json
+2026-10-18 23:04:52,446 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,447 [INFO] 正在处理文章：https://www.cngold.org/c/2025-02-28/c9753282.html
+2026-10-18 23:04:52,448 [INFO] 原始网页快照已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\raw_pages\15d1dc24520ce64b.json
+2026-10-18 23:04:52,448 [INFO] 字段不完整，跳过：日期=2025-02-28，来源=https://www.cngold.org/c/2025-02-28/c9753282.html
+2026-10-18 23:04:52,448 [INFO] 本篇文章解析到 2 条有效记录。
+2026-10-18 23:04:52,449 [INFO] 解析预览已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\parsed_preview.json
+2026-10-18 23:04:52,451 [INFO] 本次候选数据质量报告已保存：C:\Users\zhuti\PyCharmMiscProject\根目录\learn\AI量化分析\data\comex_search\candidate_quality_audit.json
+2026-10-18 23:04:52,451 [INFO] 候选质量检查完成：候选=19，待核查项目=5
+2026-10-18 23:04:52,451 [WARNING] 候选数据需要复核：{'type': 'large_change', 'report_date': '2026-01-20', 'related_date': '2025-02-27', 'field': 'eligible', 'previous_value': 20229483.238, 'current_value': 17271504.49, 'change_percent': -14.6221, 'source_url': 'https://m.cngold.org/home/xw10299704.html', 'issues': ['与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核']}
+2026-10-18 23:04:52,451 [WARNING] 候选数据需要复核：{'type': 'large_change', 'report_date': '2026-05-04', 'related_date': '2026-02-23', 'field': 'eligible', 'previous_value': 16557874.94, 'current_value': 13388070.653, 'change_percent': -19.1438, 'source_url': 'https://www.cngold.org/c/2026-05-07/c10484565.html', 'issues': ['与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核']}
+2026-10-18 23:04:52,451 [WARNING] 候选数据需要复核：{'type': 'large_change', 'report_date': '2026-05-04', 'related_date': '2026-02-23', 'field': 'total', 'previous_value': 33701163.553, 'current_value': 29202691.697, 'change_percent': -13.3481, 'source_url': 'https://www.cngold.org/c/2026-05-07/c10484565.html', 'issues': ['与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核']}
+2026-10-18 23:04:52,451 [WARNING] 候选数据需要复核：{'type': 'large_change', 'report_date': '2026-09-25', 'related_date': '2026-09-16', 'field': 'eligible', 'previous_value': 12227525.695, 'current_value': 8231650.467, 'change_percent': -32.6793, 'source_url': 'https://m.cngold.org/home/xw10790135.html', 'issues': ['与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核']}
+2026-10-18 23:04:52,452 [WARNING] 候选数据需要复核：{'type': 'large_change', 'report_date': '2026-09-25', 'related_date': '2026-09-16', 'field': 'total', 'previous_value': 27383818.341, 'current_value': 23387988.611, 'change_percent': -14.5919, 'source_url': 'https://m.cngold.org/home/xw10790135.html', 'issues': ['与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核']}
+2026-10-18 23:04:52,452 [INFO] 本次合计解析到 19 条候选库存记录（尚未等同于来源已核实）。
+2026-10-18 23:04:52,459 [INFO] 当前为预览模式 DRY_RUN=True，本次不会写入数据库。
+2026-10-18 23:04:52,460 [INFO] 预览结束：没有写入数据库。请检查 parsed_preview.json 后再决定是否入库。
+2026-10-18 23:04:52,460 [INFO] COMEX 黄金库存采集结束。

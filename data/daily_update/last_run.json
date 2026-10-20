@@ -1,0 +1,87 @@
+{
+  "started_at": "2026-10-19T18:54:18",
+  "finished_at": "2026-10-19T18:54:27",
+  "commit": true,
+  "steps_requested": [
+    "gold",
+    "macro",
+    "comex"
+  ],
+  "steps_succeeded": [
+    "macro",
+    "comex"
+  ],
+  "steps_failed": [
+    "gold"
+  ],
+  "ok": false,
+  "table_row_changes": {},
+  "inventory_quality_status": {
+    "ACCEPTED/eastmoney": 1194,
+    "ACCEPTED/metalcharts": 2,
+    "REJECTED/cngold": 22,
+    "REVIEW/eastmoney": 2,
+    "REVIEW/metalcharts": 1,
+    "VERIFIED/eastmoney": 40,
+    "VERIFIED/metalcharts": 33
+  },
+  "results": {
+    "gold": {
+      "status": "failed",
+      "seconds": 1.65,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://xaus.com/api/v1/chart?symbol=xau&range=1y&interval=1d",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\zhuti\\PyCharmMiscProject\\根目录\\learn\\AI量化分析\\scripts\\daily_update.py\", line 220, in run\n    payload = runner(commit)\n  File \"C:\\Users\\zhuti\\PyCharmMiscProject\\根目录\\learn\\AI量化分析\\scripts\\daily_update.py\", line 119, in <lambda>\n    STEP_GOLD: lambda commit: run_gold(),\n  File \"C:\\Users\\zhuti\\PyCharmMiscProject\\根目录\\learn\\AI量化分析\\scripts\\daily_update.py\", line 93, in run_gold\n    result = run_gold_pipeline()\n  File \"C:\\Users\\zhuti\\PyCharmMiscProject\\根目录\\learn\\AI量化分析\\src\\data_processing\\gold_pipeline.py\", line 75, in run_gold_pipeline\n    gold_data = fetch_gold_history()\n  File \"C:\\Users\\zhuti\\PyCharmMiscProject\\根目录\\learn\\AI量化分析\\src\\data_sources\\yahoo_finance.py\", line 19, in fetch_gold_history\n    response.raise_for_status()\n  File \"C:\\Users\\zhuti\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\requests\\models.py\", line 1021, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 503 Server Error: Service Unavailable for url: https://xaus.com/api/v1/chart?symbol=xau&range=1y&interval=1d\n"
+    },
+    "macro": {
+      "status": "ok",
+      "seconds": 6.02,
+      "result": {
+        "returned": null
+      }
+    },
+    "comex": {
+      "status": "ok",
+      "seconds": 1.54,
+      "result": {
+        "rows": 1272,
+        "stats": {
+          "inserted": 0,
+          "updated": 0,
+          "unchanged": 1272
+        },
+        "quality": {
+          "VERIFIED": 73,
+          "ACCEPTED": 1196,
+          "REVIEW": 3
+        },
+        "rejected_legacy": 22,
+        "offset_report": {
+          "expected_offset_days": 0,
+          "detected_offset_days": 0,
+          "match_counts_by_offset": {
+            "-2": 0,
+            "-1": 0,
+            "0": 6,
+            "1": 21,
+            "2": 10
+          },
+          "weekend_counts_by_offset": {
+            "-2": 487,
+            "-1": 231,
+            "0": 0,
+            "1": 247,
+            "2": 496
+          },
+          "changed_days_used": 1037,
+          "valid_offsets": [
+            0
+          ],
+          "reason": "在 1037 个值变化日上比对，偏移 +0 天匹配 6 处且不产生周末日期。",
+          "consistent": true
+        },
+        "conflicts": 0,
+        "large_changes": 2
+      }
+    }
+  }
+}

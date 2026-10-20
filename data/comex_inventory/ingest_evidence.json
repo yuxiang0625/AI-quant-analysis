@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-10-19T18:54:27",
+  "dry_run": false,
+  "sources": [
+    "eastmoney",
+    "metalcharts"
+  ],
+  "offset_report": {
+    "expected_offset_days": 0,
+    "detected_offset_days": 0,
+    "match_counts_by_offset": {
+      "-2": 0,
+      "-1": 0,
+      "0": 6,
+      "1": 21,
+      "2": 10
+    },
+    "weekend_counts_by_offset": {
+      "-2": 487,
+      "-1": 231,
+      "0": 0,
+      "1": 247,
+      "2": 496
+    },
+    "changed_days_used": 1037,
+    "valid_offsets": [
+      0
+    ],
+    "reason": "在 1037 个值变化日上比对，偏移 +0 天匹配 6 处且不产生周末日期。",
+    "consistent": true
+  },
+  "counts": {
+    "fetched": 1272,
+    "eastmoney": 1236,
+    "metalcharts": 36,
+    "valid": 1272,
+    "invalid": 0,
+    "unique": 1272,
+    "cross_validated_pairs": 74,
+    "conflicts": 0,
+    "large_change_warnings": 2
+  },
+  "date_range": {
+    "min": "2021-10-18",
+    "max": "2026-10-16"
+  },
+  "conflicts": [],
+  "large_changes": [
+    {
+      "source": "eastmoney",
+      "report_date": "2026-09-21",
+      "related_date": "2026-09-18",
+      "change_percent": 14.8068
+    },
+    {
+      "source": "metalcharts",
+      "report_date": "2026-09-25",
+      "related_date": "2026-09-18",
+      "change_percent": 14.7075
+    }
+  ],
+  "invalid_rows": []
+}

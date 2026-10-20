@@ -1,0 +1,226 @@
+{
+  "generated_at": "2026-10-18T23:04:52",
+  "candidate_count": 19,
+  "accepted_for_review": [
+    {
+      "report_date": "2025-02-26",
+      "registered": 18233790.127,
+      "eligible": 20727410.011,
+      "total": 38961200.138,
+      "source_url": "https://www.cngold.org/c/2025-02-28/c9753282.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2025-02-27",
+      "registered": 18838821.278,
+      "eligible": 20229483.238,
+      "total": 39068304.516,
+      "source_url": "https://www.cngold.org/c/2025-02-28/c9753282.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-01-20",
+      "registered": 18864396.638,
+      "eligible": 17271504.49,
+      "total": 36135901.128,
+      "source_url": "https://m.cngold.org/home/xw10299704.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-01-21",
+      "registered": 18864396.638,
+      "eligible": 17278483.186,
+      "total": 36142879.824,
+      "source_url": "https://m.cngold.org/home/xw10299704.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-02-06",
+      "registered": 18370216.368,
+      "eligible": 16999889.111,
+      "total": 35370105.479,
+      "source_url": "https://m.cngold.org/home/xw10332648.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-02-09",
+      "registered": 18258988.991,
+      "eligible": 17035123.651,
+      "total": 35294112.642,
+      "source_url": "https://m.cngold.org/home/xw10332648.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-02-20",
+      "registered": 17143288.613,
+      "eligible": 16631217.942,
+      "total": 33774506.555,
+      "source_url": "https://m.cngold.org/home/xw10351925.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-02-23",
+      "registered": 17143288.613,
+      "eligible": 16557874.94,
+      "total": 33701163.553,
+      "source_url": "https://m.cngold.org/home/xw10351925.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-05-04",
+      "registered": 15814621.044,
+      "eligible": 13388070.653,
+      "total": 29202691.697,
+      "source_url": "https://www.cngold.org/c/2026-05-07/c10484565.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-05-05",
+      "registered": 15827899.555,
+      "eligible": 13310014.871,
+      "total": 29137914.426,
+      "source_url": "https://www.cngold.org/c/2026-05-07/c10484565.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-07-28",
+      "registered": 14747681.698,
+      "eligible": 12278049.141,
+      "total": 27025730.839,
+      "source_url": "https://m.cngold.org/home/xw10660187.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-07-29",
+      "registered": 14747681.698,
+      "eligible": 12289920.902,
+      "total": 27037602.6,
+      "source_url": "https://m.cngold.org/home/xw10660187.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-09-15",
+      "registered": 15155521.022,
+      "eligible": 12228297.319,
+      "total": 27383818.341,
+      "source_url": "https://m.cngold.org/home/xw10766734.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-09-16",
+      "registered": 15156292.646,
+      "eligible": 12227525.695,
+      "total": 27383818.341,
+      "source_url": "https://m.cngold.org/home/xw10766734.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-09-25",
+      "registered": 15156338.144,
+      "eligible": 8231650.467,
+      "total": 23387988.611,
+      "source_url": "https://m.cngold.org/home/xw10790135.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-09-28",
+      "registered": 15103820.838,
+      "eligible": 8303458.373,
+      "total": 23407279.211,
+      "source_url": "https://m.cngold.org/home/xw10801220.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-10-06",
+      "registered": 15074857.266,
+      "eligible": 8404761.256,
+      "total": 23479618.522,
+      "source_url": "https://m.cngold.org/home/xw10801220.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-10-13",
+      "registered": 14876916.734,
+      "eligible": 8599178.796,
+      "total": 23476095.53,
+      "source_url": "https://m.cngold.org/home/xw10819703.html",
+      "basic_validation": "passed"
+    },
+    {
+      "report_date": "2026-10-14",
+      "registered": 14816969.006,
+      "eligible": 8642490.845,
+      "total": 23459459.851,
+      "source_url": "https://m.cngold.org/home/xw10819703.html",
+      "basic_validation": "passed"
+    }
+  ],
+  "issues": [
+    {
+      "type": "large_change",
+      "report_date": "2026-01-20",
+      "related_date": "2025-02-27",
+      "field": "eligible",
+      "previous_value": 20229483.238,
+      "current_value": 17271504.49,
+      "change_percent": -14.6221,
+      "source_url": "https://m.cngold.org/home/xw10299704.html",
+      "issues": [
+        "与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核"
+      ]
+    },
+    {
+      "type": "large_change",
+      "report_date": "2026-05-04",
+      "related_date": "2026-02-23",
+      "field": "eligible",
+      "previous_value": 16557874.94,
+      "current_value": 13388070.653,
+      "change_percent": -19.1438,
+      "source_url": "https://www.cngold.org/c/2026-05-07/c10484565.html",
+      "issues": [
+        "与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核"
+      ]
+    },
+    {
+      "type": "large_change",
+      "report_date": "2026-05-04",
+      "related_date": "2026-02-23",
+      "field": "total",
+      "previous_value": 33701163.553,
+      "current_value": 29202691.697,
+      "change_percent": -13.3481,
+      "source_url": "https://www.cngold.org/c/2026-05-07/c10484565.html",
+      "issues": [
+        "与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核"
+      ]
+    },
+    {
+      "type": "large_change",
+      "report_date": "2026-09-25",
+      "related_date": "2026-09-16",
+      "field": "eligible",
+      "previous_value": 12227525.695,
+      "current_value": 8231650.467,
+      "change_percent": -32.6793,
+      "source_url": "https://m.cngold.org/home/xw10790135.html",
+      "issues": [
+        "与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核"
+      ]
+    },
+    {
+      "type": "large_change",
+      "report_date": "2026-09-25",
+      "related_date": "2026-09-16",
+      "field": "total",
+      "previous_value": 27383818.341,
+      "current_value": 23387988.611,
+      "change_percent": -14.5919,
+      "source_url": "https://m.cngold.org/home/xw10790135.html",
+      "issues": [
+        "与上一条候选记录相比变化达到或超过10%；可能是真实变化，也可能是解析/来源问题，需人工复核"
+      ]
+    }
+  ],
+  "note": "本报告是自动筛查，不等于来源真实性认证；极端变化需对照原文。"
+}
